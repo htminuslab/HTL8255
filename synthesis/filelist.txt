@@ -1,0 +1,4 @@
+../rtl/intra_fsm.vhd
+../rtl/intrb_fsm.vhd
+../rtl/htl8255.vhd
+../rtl/htl8255_tri.vhd
