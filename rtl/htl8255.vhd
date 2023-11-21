@@ -9,8 +9,8 @@
 -- Library       : I8088                                                     --
 --                                                                           --
 -- Version       : 1.0  20/01/2002   Created HT-LAB                          --
---               : 1.0a 25/05/2009   Added pragma's around assertion         --
---               : 1.1  30/11/2023   cleaned and uploaded to github          --
+--               : 1.0a 25/05/2002   Added pragma's around assertion         --
+--               : 1.1  21/11/2023   cleaned and uploaded to github          --
 -------------------------------------------------------------------------------
 
 LIBRARY ieee;

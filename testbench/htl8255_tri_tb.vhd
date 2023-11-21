@@ -9,7 +9,7 @@
 --  Library       : I8088                                                    --
 --                                                                           --
 --  Version       : 1.0  20/01/2002   Created HT-LAB                         --
---                : 1.2  30/11/2023   cleaned and uploaded to github         --
+--                : 1.1  21/11/2023   cleaned and uploaded to github         --
 -- ----------------------------------------------------------------------------
 
 ENTITY HTL8255_TriState_tb IS
